@@ -1,0 +1,2 @@
+# objdetec
+python learn
