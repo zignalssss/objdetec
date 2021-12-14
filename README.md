@@ -1,2 +1,2 @@
 # objdetec
-python learn
+this is python learn
